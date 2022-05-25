@@ -22,7 +22,7 @@
         text-align: center;
       "
     >
-      <h4>AAE IdeaPro</h4>
+      <h4>Book Deals</h4>
     </div>
 
     <v-spacer></v-spacer>
